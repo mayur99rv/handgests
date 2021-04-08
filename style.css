@@ -1,0 +1,17 @@
+body{
+    color: orange;
+    background-color: black;
+    min-height: 100vh;
+}
+
+.mrv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.large{
+    font-size: 20px;
+}
